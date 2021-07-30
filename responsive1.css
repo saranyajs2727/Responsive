@@ -28,7 +28,7 @@
     mix-blend-mode: screen;
 }
 .input input:focus{
-    border:2.5px solid #e91e63;
+    border: 2.5px solid #e91e63;
 }
 .img img1{
     position: absolute;
